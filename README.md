@@ -6,28 +6,26 @@ This repository stores postcode-level Amber Electricity price data collected fro
 
 | Field | Value |
 |---|---|
-| Data obtained at | 2026-07-05T22:09:06.812562+10:00 |
+| Data obtained at | 2026-07-05T23:25:02.104339+10:00 |
 | Postcode | 2145 |
 | Network | Endeavour Energy |
 | Import tariff | N71 |
 | Export/feed-in tariff | NOTAPPLIC |
-| Earliest NEM time in latest fetch | 2026-07-04T22:30:00+10:00 |
-| Latest NEM time in latest fetch | 2026-07-05T22:30:00+10:00 |
+| Earliest NEM time in latest fetch | 2026-07-04T23:30:00+10:00 |
+| Latest NEM time in latest fetch | 2026-07-05T23:30:00+10:00 |
 | Requested window | Past 24 hours |
 
 ## Latest 24-hour summary
 
 | Direction | Intervals | Min c/kWh | Average c/kWh | Max c/kWh |
 |---|---:|---:|---:|---:|
-| Import | 49 | 12.35 | 23.69 | 28.69 |
-| Export/feed-in | 49 | 3.72 | 8.01 | 11.38 |
+| Import | 49 | 12.35 | 23.59 | 28.69 |
+| Export/feed-in | 49 | 3.72 | 7.92 | 11.38 |
 
 ## Latest 24-hour interval prices
 
 | NEM time | Import c/kWh | Export c/kWh | Renewables % | Import descriptor | Export descriptor |
 |---|---:|---:|---:|---|---|
-| 2026-07-04T22:30:00+10:00 | 28.15177 | 10.89132 | 6.31 | veryLow | high |
-| 2026-07-04T23:00:00+10:00 | 27.59855 | 10.38839 | 5.80 | veryLow | high |
 | 2026-07-04T23:30:00+10:00 | 27.90667 | 10.66850 | 5.77 | veryLow | high |
 | 2026-07-05T00:00:00+10:00 | 27.03814 | 9.87893 | 5.62 | veryLow | high |
 | 2026-07-05T00:30:00+10:00 | 27.70715 | 10.48712 | 5.23 | veryLow | high |
@@ -74,7 +72,9 @@ This repository stores postcode-level Amber Electricity price data collected fro
 | 2026-07-05T21:00:00+10:00 | 26.06789 | 8.99688 | 14.75 | veryLow | high |
 | 2026-07-05T21:30:00+10:00 | 25.89617 | 8.84078 | 16.03 | veryLow | high |
 | 2026-07-05T22:00:00+10:00 | 25.90262 | 8.84663 | 16.77 | veryLow | high |
-| 2026-07-05T22:30:00+10:00 | 25.63668 | 8.60487 | 17.03 | veryLow | high |
+| 2026-07-05T22:30:00+10:00 | 25.65629 | 8.62270 | 16.65 | veryLow | high |
+| 2026-07-05T23:00:00+10:00 | 25.16309 | 8.17434 | 17.35 | veryLow | high |
+| 2026-07-05T23:30:00+10:00 | 25.54192 | 8.51873 | 18.75 | veryLow | high |
 
 ## Files
 
